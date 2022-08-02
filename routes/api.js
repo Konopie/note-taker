@@ -19,6 +19,7 @@ function deleteNote(id) {
 }
 
 router.get('/notes', (req, res)=>{
+  console.log(notesArray)
     res.json(notesArray)
 })
 
