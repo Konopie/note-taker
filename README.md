@@ -6,7 +6,7 @@
         * [Questions](#github)
 
         ##Description 
-        A Website that uses an Express.js backend that allows you to take notes and keep them on a local database
+        A Website that uses an Express.js backend to allow you to take notes and keep them on a local database
         ##Installation
         git clone
         ##Usage
