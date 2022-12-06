@@ -10,7 +10,7 @@
         ##Installation
         git clone
         ##Usage
-        browser
+        Start server from console then use from browser
         ##Questions
         GitHub: Konopie
         email: codycooper06@gmail.com
